@@ -1,66 +1,43 @@
-/**
- * File: brownstone.css
- * Author: Bill Israel (http://cubicle17.com/)
- * Free to copy/alter/distribute, but please leave this attribution intact.
- *
- * Designed for use with the {CustomCSS} Tumblr theme.
- * http://customcss.tumblr.com/
- */
-
 body {
-  background: #1a1a1a;
-  color: #a0a0a0;
-  font: normal 1em/1.5 Helvetica, Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  text-align: center;
+    margin: 60px auto;
+    width: 70%;
 }
-
-a, a:active, a:visited {
-  color: #36c;
+nav ul, footer ul {
+    font-family:'Open Sans', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
 }
-
-a:hover {
-  text-decoration: none;
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
 }
-
-  a img {
-    border: 0;
-  }
-
-h1, h2, h3, h4 {
-  color: #c0c0c0;
-  margin: 0 0 1.5em;
-  padding: 0;
-}
-
-h1 {
-  font-size: 1.25em;
-  font-weight: normal;
-  margin-bottom: 1.8em;
-}
-
-  h1 a, h1 a:active, h1 a:visited {
-    color: #ddd;
+a {
     text-decoration: none;
-  }
-  
-  h1 a:hover {
-    color: #36c;
-  }
-
-blockquote {
-  font-style: italic;
-  margin: 0 1.5em 1.5em;
+    color: #999;
 }
-
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Open Sans', 'Arial', 'Sans-Serif';
+}
 p {
-  margin: 0 0 1.5em;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
 }
 
-ol, ul {
-  margin: 0 0 1.5em;
-  padding: 0 1.5em;
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
 }
 
-
+ul.posts li {
+    list-style: none;
+}
