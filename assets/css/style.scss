@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+<!DOCTYPE html>
+<html>
+<head>
+ <meta name="color:Background" content="#f4fbfa" />
+<meta name="font:Body" content="Open Sans, Arial, sans-serif"/>
+<style type="text/css">
+body {
+ background: {color:Background};
+ font-family: {font:Body};
+}
+ </style>
