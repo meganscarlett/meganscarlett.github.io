@@ -1,2 +1,5 @@
+#Jekyll configuration
 name: meganscarlett
-	markdown: kramdown
+url: "http://meganscarlett.github.io"
+markdown: kramdown
+highlighter: rouge
