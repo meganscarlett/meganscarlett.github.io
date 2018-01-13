@@ -11,4 +11,56 @@ Here you can find all of my notes with the related textbook chapters in the AP C
 There is also a contact page should you wish to message me with any questions about AP Biology content.
 
 I hope students in the course can find this content helpful in revising and succeeding in their own AP Biology course.</a></p>
+
+---
+layout: feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Hank Quinlan's Blog</title>
+	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://hankquinlan.github.io/blog"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>http://hankquinlan.github.io/blog</id>
+	<author>
+		<name>Hank Quinlan</name>
+		<email>hankquinlanhub@gmail.com</email>
+	</author>
+
+	{% for post in site.posts %}
+		<entry>
+			<title>{{ post.title }}</title>
+			<link href="http://hankquinlan.github.io{{ post.url }}"/>
+			<updated>{{ post.date | date_to_xmlschema }}</updated>
+			<id>http://hankquinlan.github.io{{ post.id }}</id>
+			<content type="html">{{ post.content | xml_escape }}</content>
+		</entry>
+	{% endfor %}
+
+</feed>
+
+<!-- OTHER FEEED -->
+
+<div class="row"> == $0
+  ::before
+   <div class="col-md-4">
+     <div class="head">
+	     <a class="off" href="/notes/">Notes</a>
+	   </div>
+	   <div class="bigspacer"></div>
+	   <div class="feedbox">
+	     <div class="note-title">
+	       <i class="fa fa-bullhorn fa-fw">
+		 ::before
+	       </i>
+	       <a class="off" href="/_posts/{{ post.date | date_to_xmlschema }}">
+		       		   {{ post.title }}
+		     </a>
+		</div>     
+		   
+		     
+	 
+
+	
 </div><!-- /.blurb -->
