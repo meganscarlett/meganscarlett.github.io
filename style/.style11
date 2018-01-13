@@ -1,0 +1,10 @@
+{
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 8px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #375c91;
+}
