@@ -1,17 +1,17 @@
 #column-left {
 	width: 250px;
+	height: 20px;
 	float: left;
-	background: red;
 }
  
 #column-center {
 	width: 480px;
+	height: 20px;
 	float: left;
-	background: yellow;
 }
  
 #column-right {
 	width: 250px;
+	height: 20px;
 	float: left;
-	background: purple;
 }
