@@ -1,6 +1,5 @@
-<p style="text-align:center">
-{
+body {
   font-family: 'Noto Sans', sans-serif;
-font-size: 15px;
-}
-  </p>
+  font-size: 13px;
+  text-align:center
+}   
