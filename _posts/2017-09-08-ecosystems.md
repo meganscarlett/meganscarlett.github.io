@@ -1,3 +1,4 @@
+<p style="text-align:justify">
 <strong>Unit: </strong>Population Dynamics
 
 <em>Lesson 1</em>
