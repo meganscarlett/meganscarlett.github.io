@@ -28,10 +28,14 @@
     <!-- Static botoom navbar -->
 	<!-- link to footer stylesheet -->
 	<link rel="stylesheet" type="text/css" href="/css/stickyfooter.css">
-    <nav class="navbar navbar-default">
+    <nav class="navbar navbar-default navbar-fixed bottom">
 <center> 
       <div class="container">
-        <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+	      <div class="navbar-header"></div>
+	      	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#jb-bottom-collapse"></button>
+	</div>
+	<!-- Collect the nav links, forms, and other content for toggling -->
+	 <div class="navbar-collapse collapse" id="jb-bottom-collapse" style="height: 1 px;"></div>
           <ul class="nav navbar-nav navbar-left navbar-small">
             <li>
               <a href="https://apstudent.collegeboard.org/home">Explore AP</a>
@@ -49,8 +53,21 @@
             </li>
           </ul>
         </div> 
+ <!-- /.navbar collapse --> 
+	    </div>
+		</nav>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-106498545-1'])'
+			_gaq.push(['_trackPageview']);
+			
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript; ga.async = true;
+				ga.src = ('https:' == document.location.protocol? 'https://ssl' : 'http://) + '.google-analystics.com/ga.js';
+					  })();
+		</script>
 	        </center>
- <!-- Maybe add navbar collapse --> 
+
       
 	</body>
 </html>
