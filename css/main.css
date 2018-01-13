@@ -42,3 +42,23 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+#column-left {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+ 
+#column-center {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+ 
+#column-right {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
