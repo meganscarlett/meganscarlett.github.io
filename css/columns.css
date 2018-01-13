@@ -1,17 +1,17 @@
 #column-left {
-	width: 250px;
+	width: 2125px;
 	height: 200px;
 	float: left;
 }
  
 #column-center {
-	width: 480px;
+	width: 240px;
 	height: 200px;
 	float: left;
 }
  
 #column-right {
-	width: 250px;
+	width: 125px;
 	height: 200px;
 	float: left;
 }
