@@ -1,40 +1,17 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
-
-body { 
-  font-family: 'Open Sans', sans-serif;
-  color: #666;
-}
-
-/* STRUCTURE */
-
-#pagewrap {
-	padding: 5px;
-	width: 960px;
-	margin: 20px auto;
-}
-header {
-	height: 100px;
-	padding: 0 15px;
-}
-#content {
-	width: 290px;
+#column-left {
+	width: 250px;
 	float: left;
-	padding: 5px 15px;
+	background: red;
 }
-
-#middle {
-	width: 294px; /* Account for margins + border values */
+ 
+#column-center {
+	width: 480px;
 	float: left;
-	padding: 5px 15px;
-	margin: 0px 5px 5px 5px;
+	background: yellow;
 }
-
-#sidebar {
-	width: 270px;
-	padding: 5px 15px;
+ 
+#column-right {
+	width: 250px;
 	float: left;
-}
-footer {
-	clear: both;
-	padding: 0 15px;
+	background: purple;
 }
