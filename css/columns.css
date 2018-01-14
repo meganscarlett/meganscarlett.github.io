@@ -1,24 +1,24 @@
 
 #column-left {
-	width: 230px;
+	width: 250px;
 	height: 200px;
 	float: left;
 }
  
 #column-center {
-	width: 230px;
+	width: 250px;
 	height: 200px;
 	float: left;
 }
  
 #column-right {
-	width: 230px;
+	width: 250px;
 	height: 200px;
 	float: left;
 }
 
 div {
-    column-gap: 10px;
+    column-gap: 20px;
 }
 
 body {
