@@ -1,7 +1,7 @@
 
 /* Dropdown button */
 .dropdown .dropbtn {
-  font-size: 14px; 
+  font-size: 20px; 
   border: none;
   outline: none;
   padding: 5px 5px;
@@ -32,11 +32,6 @@
   text-decoration: none;
   display: block;
   text-align: center;
-}
-
-/* Add a grey background color to dropdown links on hover */
-.dropdown-content a:hover {
-  background-color: #9B9B9B;
 }
 
 /* Show the dropdown menu on hover */
