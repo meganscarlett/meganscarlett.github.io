@@ -2,14 +2,14 @@
 /* Navbar container */
 .navbar {
   overflow: hidden;
-  background-color: #DCC2D0;
+  background-color: #D7D7D7;
   font-family: 'Lato', sans-serif;
 }
 
 /* Links inside the navbar */
 .navbar a {
   float: left;
-  font-size: 16px;
+  font-size: 13px;
   color: #9E9E9E;
   text-align: center;
   padding: 5px 5px;
@@ -24,11 +24,11 @@
 
 /* Dropdown button */
 .dropdown .dropbtn {
-  font-size: 16px; 
+  font-size: 13px; 
   border: none;
   outline: none;
   color: #FFFFFF;
-  padding: 5px 5px;
+  padding: 7px 5px;
   background-color: inherit;
 }
 
