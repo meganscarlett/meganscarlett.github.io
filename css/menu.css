@@ -8,7 +8,7 @@
 
 /* Links inside the navbar */
 .navbar a {
-  float: center;
+  float: left;
   font-size: 13px;
   color: #9E9E9E;
   text-align: center;
