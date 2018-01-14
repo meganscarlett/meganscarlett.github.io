@@ -1,33 +1,9 @@
 
-/* Navbar container */
-.navbar {
-  overflow: hidden;
-  background-color: #D7D7D7;
-  font-family: 'Lato', sans-serif;
-}
-
-/* Links inside the navbar */
-.navbar a {
-  float: left;
-  font-size: 14px;
-  color: #9E9E9E;
-  text-align: center;
-  padding: 3px 3px;
-  text-decoration: none;
-}
-
-/* The dropdown container */
-.dropdown {
-  float: left;
-  overflow: hidden;
-}
-
 /* Dropdown button */
 .dropdown .dropbtn {
   font-size: 14px; 
   border: none;
   outline: none;
-  color: #9E9E9E;
   padding: 5px 5px;
   background-color: inherit;
   font-family: 'Lato', sans-serif;
@@ -55,7 +31,7 @@
   padding: 5px 5px;
   text-decoration: none;
   display: block;
-  text-align: left;
+  text-align: center;
 }
 
 /* Add a grey background color to dropdown links on hover */
