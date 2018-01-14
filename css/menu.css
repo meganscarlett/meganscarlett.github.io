@@ -8,7 +8,7 @@
 
 /* Links inside the navbar */
 .navbar a {
-  float: left;
+  float: center;
   font-size: 13px;
   color: #9E9E9E;
   text-align: center;
@@ -24,11 +24,11 @@
 
 /* Dropdown button */
 .dropdown .dropbtn {
-  font-size: 13px; 
+  font-size: 14px; 
   border: none;
   outline: none;
   color: #FFFFFF;
-  padding: 7px 5px;
+  padding: 6px 5px;
   background-color: inherit;
 }
 
@@ -43,7 +43,7 @@
   position: absolute;
   background-color: #f9f9f9;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 10px 14px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
 
