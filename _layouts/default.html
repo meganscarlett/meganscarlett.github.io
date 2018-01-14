@@ -9,10 +9,22 @@
 	</head>
 	<body>
 		<nav>
-    		<ul>
-			<div style="font-size: 20px"><center><li><a href="/">Home</a></li>
-	        	<li><a href="/notes">Notes</a></li>
-        		<li><a href="https://www.sciencenews.org/">News</a></li></center>
+    		<ul>			
+<!-- dropdown menu -->
+<div class="navbar">
+  <a href="/">Home</a>
+  <a href="/notes">Notes</a>
+  <div class="dropdown">
+    <button class="dropbtn">News 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div> 
+</div>	
     		</ul>
 		</nav>
 		<div class="container">
