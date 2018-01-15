@@ -1,26 +1,25 @@
 
-{
-	text-align: center;
 #column-left {
 	width: 235px;
 	height: 200px;
 	float: left;
-	padding: 5px;
+	padding-left: 8px;
+	padding-right: 4px;
+	
 }
  
 #column-center {
 	width: 235px;
 	height: 200px;
 	float: left;
-	padding: 5px;
+	padding: 6px;
 }
  
 #column-right {
 	width: 235px;
 	height: 200px;
 	float: left;
-	padding: 5px;
-}
+	padding: 6px;
 }
 
 div {
