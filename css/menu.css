@@ -1,7 +1,3 @@
-body {
-    background:#bf5c71 url('body-bg.jpg');
-}
-
 .clearfix:after {
     display:block;
     clear:both;
@@ -22,17 +18,17 @@ body {
 .menu li {
     margin:0px;
     list-style:none;
-    font-family:'Ek Mukta';
+    font-family:'Lato', sans-serif;
 }
 
 .menu a {
     transition:all linear 0.15s;
-    color:#919191;
+    color:#000000;
 }
 
 .menu li:hover > a, .menu .current-item > a {
     text-decoration:none;
-    color:#be5b70;
+    color:#D7D7D7;
 }
 
 .menu .arrow {
