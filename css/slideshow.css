@@ -6,9 +6,9 @@ body { margin:10px auto; text-align:center; }
 .simple-ss {
   width:205px;
   height:250px;
+  background-image:url("https://imgur.com/a/QhwAe");
   background-color:red;
   margin:auto;
-  background-image:url("https://imgur.com/a/QhwAe");
   background-position:0;
   background-repeat:no-repeat;
   background-size:cover;
