@@ -7,7 +7,7 @@ body { margin:10px auto; text-align:center; }
   width:205px;
   height:205px;
   margin:auto;
-  background-image:url="https://meganscarlett.github.io/Screen Shot 2018-01-14 at 10.23.07 PM.png";
+  background-image:url("https://meganscarlett.github.io/Screen Shot 2018-01-14 at 10.23.07 PM.png");
   background-position:0;
   background-repeat:no-repeat;
   background-size:cover;
