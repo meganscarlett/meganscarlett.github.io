@@ -27,7 +27,7 @@
 
 .menu li:hover > a, .menu .current-item > a {
     text-decoration:none;
-    color:#D7D7D7;
+    color:#A0A0A0;
 }
 
 .menu .arrow {
@@ -49,7 +49,7 @@
 }
 
 .menu > ul > li:hover > a, .menu > ul > .current-item > a {
-    background:#A0A0A0;
+    background:#D7D7D7;
 }
 
 /*----- Bottom Level -----*/
@@ -81,4 +81,4 @@
 }
 
 .sub-menu li a:hover, .sub-menu .current-item a {
-    background:#A0A0A0;
+    background:#D7D7D7;
