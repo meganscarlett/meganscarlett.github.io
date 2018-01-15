@@ -5,7 +5,6 @@
 	float: left;
 	padding-left: 8px;
 	padding-right: 4px;
-	font-size: 14px;
 	
 }
  
@@ -14,7 +13,6 @@
 	height: 200px;
 	float: left;
 	padding: 6px;
-	font-size: 14px;
 }
  
 #column-right {
@@ -22,7 +20,6 @@
 	height: 200px;
 	float: left;
 	padding: 6px;
-	font-size: 14px;
 }
 
 div {
@@ -31,5 +28,5 @@ div {
 
 body {
   font-family: 'Open Sans', serif;
-  font-size: 14px;
+  font-size: 16px;
 }    
