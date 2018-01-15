@@ -11,7 +11,7 @@
 }
 
 .menu {
-    width:1000px;
+    width:850px;
     margin:0px auto;
 }
 
@@ -38,7 +38,7 @@
 
 /*----- Top Level -----*/
 .menu > ul > li {
-    float:center;
+    float:left;
     display:inline-block;
     position:relative;
     font-size:18px;
