@@ -2,6 +2,10 @@
     display:block;
     clear:both;
 }
+.page {
+  width: 600px;
+  margin: 0 auto;
+}
 
 /*----- Menu Outline -----*/
 .menu-wrap {
