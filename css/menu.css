@@ -52,7 +52,7 @@
 
 .menu > ul > li:hover > a, .menu > ul > .current-item > a {
     background:#D7D7D7;
-    width: 160px;
+    width: 120px;
 }
 
 /*----- Bottom Level -----*/
