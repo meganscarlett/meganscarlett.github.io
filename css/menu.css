@@ -61,7 +61,7 @@
 .menu li:hover .sub-menu {
     z-index:1;
     opacity:1;
-    width: 80px;
+    width: 160px;
 }
 
 .sub-menu {
@@ -72,7 +72,6 @@
     left:0px;
     z-index:-1;
     opacity:0;
-    transition:opacity linear 0.15s;
     background:#FFFFFF;
 }
 
@@ -83,11 +82,11 @@
 }
 
 .sub-menu li a {
-    padding:10px 30px;
+    padding:10px 10px;
     display:block;
 }
 
 .sub-menu li a:hover, .sub-menu .current-item a {
     background:#D7D7D7;
-    width: 160px;
+    width: 80px;
     
