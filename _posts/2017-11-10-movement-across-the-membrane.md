@@ -156,7 +156,8 @@
 <b>Hypotonic: </b><span style="font-weight:400;">Less solute; more water </span>
 
 <b>Isotonic: </b><span style="font-weight:400;">Equal solute; equal water</span>
-<h1><span style="font-weight:400;">Managing Water Balance</span><img class=" size-full wp-image-190 aligncenter" src="https://apbiology387631959.files.wordpress.com/2018/01/screen-shot-2018-01-04-at-2-17-59-pm.png" alt="Screen Shot 2018-01-04 at 2.17.59 PM.png" width="334" height="261" /></h1>
+<h1><span style="font-weight:400;">Managing Water Balance</span>
+<img class=" size-full wp-image-190 aligncenter" src="https://apbiology387631959.files.wordpress.com/2018/01/screen-shot-2018-01-04-at-2-17-59-pm.png" alt="Screen Shot 2018-01-04 at 2.17.59 PM.png" width="334" height="261" /></h1>
 <ul>
 	<li style="font-weight:400;"><span style="font-weight:400;">Cell survival depends on balancing water uptake and loss</span></li>
 </ul>
