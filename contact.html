@@ -2,24 +2,43 @@
 layout: default
 title: apbiology
 ---
+<!DOCTYPE HTML>
+<html>
+  
 <!-- main text -->
 <h1>apbiology</h1>
 
-<form name="htmlform" method="post" action="html_form_send.php">
-<div class="container">
-  <form action="action_page.php">
+    <link rel="stylesheet" type="text/css" href="/css/contact.css">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Contact Form</title>
+</head>
 
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+<body>
 
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    <header class="body">
+    </header>
 
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    <section class="body">
+         <form>
+        
+    <label>Name</label>
+    <input name="name" placeholder="Type Here">
+            
+    <label>Email</label>
+    <input name="email" type="email" placeholder="Type Here">
+            
+    <label>Message</label>
+    <textarea name="message" placeholder="Type Here"></textarea>
+            
+    <input id="submit" name="submit" type="submit" value="Submit">
+        
+</form>
+    </section>
 
-    <input type="submit" value="Submit">
+    <footer class="body">
+    </footer>
 
-  </form>
-</div>
+</body>
 
+</html>
