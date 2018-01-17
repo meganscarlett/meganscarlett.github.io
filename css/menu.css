@@ -39,7 +39,7 @@
 
 /*----- Top Level -----*/
 .menu > ul > li {
-    float:center;
+    float:right;
     display:inline-block;
     position:relative;
     font-size:18px;
