@@ -19,6 +19,7 @@
     margin:0px;
     list-style:none;
     font-family:'Lato', sans-serif;
+    width: 160px;
 }
 
 .menu a {
@@ -29,7 +30,6 @@
 .menu li:hover > a, .menu .current-item > a {
     text-decoration:none;
     color:#A0A0A0;
-    width: 160px;
 }
 
 .menu .arrow {
