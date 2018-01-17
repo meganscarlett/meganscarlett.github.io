@@ -2,8 +2,7 @@
 	width: 235px;
 	height: 200px;
 	float: left;
-	padding-left: 8px;
-	padding-right: 4px;
+	padding: 8px;
 	
 }
  
@@ -11,14 +10,14 @@
 	width: 235px;
 	height: 200px;
 	float: left;
-	padding: 6px;
+	padding: 8px;
 }
  
 #column-right {
 	width: 235px;
 	height: 200px;
 	float: left;
-	padding: 6px;
+	padding: 8px;
 }
 
 div {
