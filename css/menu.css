@@ -39,9 +39,9 @@
 
 /*----- Top Level -----*/
 .menu > ul > li {
-    float:right;
+    float:left;
     display:inline-block;
-    position:relative;
+    position:absolute;
     font-size:18px;
 }
 
