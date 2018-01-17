@@ -53,12 +53,14 @@
 
 .menu > ul > li:hover > a, .menu > ul > .current-item > a {
     background:#D7D7D7;
+    width: 160px;
 }
 
 /*----- Bottom Level -----*/
 .menu li:hover .sub-menu {
     z-index:1;
     opacity:1;
+    width: 160px;
 }
 
 .sub-menu {
@@ -76,6 +78,7 @@
 .sub-menu li {
     display:block;
     font-size:16px;
+    width: 160px;
 }
 
 .sub-menu li a {
