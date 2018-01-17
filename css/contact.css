@@ -43,7 +43,3 @@ input, textarea {
     -moz-border-radius:5px;
     -webkit-border-radius:5px;
     border-radius:5px;
-}
-input:focus, textarea:focus {
-    border:1px solid #97d6eb;
-}
