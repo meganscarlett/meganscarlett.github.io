@@ -1,6 +1,3 @@
-body {
-  font-size: 9px; 
-
 #column-left {
 	width: 235px;
 	height: 200px;
@@ -27,4 +24,7 @@ body {
 div {
     column-gap: 15px;
 }
-}
+
+body {
+  font-size: 18px;
+}    
